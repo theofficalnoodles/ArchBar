@@ -1,0 +1,30 @@
+# Build folders
+/build/
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.exe
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Qt Creator
+*.user
+*.pro.user
+*.pro.user.*
+*.qmlc
+*.moc
+*.qrc
+*.rcc
+
+# Misc
+*.log
+*.swp
+*.DS_Store
+*.kate-swp
+*.backup
