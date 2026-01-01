@@ -1,0 +1,9 @@
+{
+  "KPlugin": {
+    "Id": "org.archbar.topbar",
+    "Name": "ArchBar",
+    "ServiceTypes": ["Plasma/Containment"],
+    "Category": "Panels",
+    "EnabledByDefault": false
+  }
+}
