@@ -2,8 +2,15 @@
   "KPlugin": {
     "Id": "org.archbar.topbar",
     "Name": "ArchBar",
+    "Description": "Minimal topbar for Arch Linux KDE Plasma",
     "ServiceTypes": ["Plasma/Containment"],
     "Category": "Panels",
-    "EnabledByDefault": false
-  }
+    "EnabledByDefault": false,
+    "Version": "1.0",
+    "Website": "https://github.com/theofficalnoodles/ArchBar",
+    "License": "MIT"
+  },
+  "X-Plasma-ContainmentType": "Panel",
+  "X-Plasma-API": "declarativeappletscript",
+  "X-Plasma-MainScript": "ui/main.qml"
 }
